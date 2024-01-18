@@ -1,0 +1,1 @@
+TOPIC="postgres.public.cdc_table"
